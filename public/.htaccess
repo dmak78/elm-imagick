@@ -1,0 +1,4 @@
+Options Indexes FollowSymLinks Includes ExecCGI
+AllowOverride All
+Order allow,deny
+Allow from all
